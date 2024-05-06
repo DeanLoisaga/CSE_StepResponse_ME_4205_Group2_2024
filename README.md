@@ -12,6 +12,12 @@ This is an assignment
 
 2. Second Order Overdamped System
 
+![no2 matlab](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159403287/bd65f8ba-b601-4967-ac53-74a3adba60cf)
+
+![no2](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159403287/91e16fb5-5d8f-4b2f-86e9-eeca66e05103)
+
+![no2 simulink](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159403287/5fc8f870-1ccd-48d6-b155-d996f4d232bf)
+
 3. Second order Critically Damped System
 
 4. First Order System
@@ -21,6 +27,12 @@ This is an assignment
 6. Electrical Filter with Multiple Poles
 
 7. Plant with Time Delay
+
+![no7 matlab](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159403287/8823eeea-306b-4d96-931e-f2c005d7e79f)
+
+![no 7](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159403287/125fd06a-30e1-470d-a39a-edca52cb8ada)
+
+![no7 simulink](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159403287/c4346d3c-922f-467b-8d6a-dafabf9e3552)
 
 8. Nonlinear System Approximation
 
