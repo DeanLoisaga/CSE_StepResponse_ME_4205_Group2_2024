@@ -3,11 +3,11 @@ This is an assignment
 
 1. Second Order Underdamped System
 
-![440841835_971338917518354_3889286354193484604_n](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159033676/0d404658-b2e7-45c9-bd6c-644a83e59345)
+![440884648_1217793969190306_1700292150372067649_n](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159033676/83e69789-6b73-4cf6-bbc5-7794a6b79602)
 
-![440913322_280139711836501_4815434834870405376_n](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159033676/162e908d-fda5-45ea-a56a-e7d565074e41)
+![440843209_1438740230170990_475752965314117049_n](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159033676/5aabcb71-cdbe-4ce7-8aa7-b8782e91f546)
 
-![440925258_978789133822794_543121635137641285_n](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159033676/4e5f0987-b7b5-4542-a783-6ced0006180a)
+![440906225_1269414997201989_6778982078513911525_n](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159033676/11d6ad0f-3ec6-4b84-938b-13749497f676)
 
 
 2. Second Order Overdamped System
