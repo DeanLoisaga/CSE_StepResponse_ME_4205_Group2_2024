@@ -19,6 +19,9 @@ This is an assignment
 ![no2 simulink](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159403287/5fc8f870-1ccd-48d6-b155-d996f4d232bf)
 
 3. Second order Critically Damped System
+![image](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159100618/68766ddd-65c4-4920-8df3-17646f63e6a3)
+![image](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159100618/5af38adc-541c-490d-af47-66d08c69aed4)
+![image](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159100618/a07f26b2-275f-4343-9303-8bff08f6e199)
 
 4. First Order System
 ![First order system step response](https://github.com/eunragusante/CSE_StepResponse_ME_4205_Group2_2024/assets/159035507/6c88723b-a5a1-40da-9abf-b2a4c07ac0c0)
@@ -31,6 +34,9 @@ This is an assignment
 ![Resonant system step response simulink](https://github.com/eunragusante/CSE_StepResponse_ME_4205_Group2_2024/assets/159035507/5d6c1408-6664-4682-b215-05e89bbc06fb)
 
 6. Electrical Filter with Multiple Poles
+![image](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159100618/d61a744e-fd0f-44b5-8c9c-03ededa9a276)
+![image](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159100618/271df261-d605-4e1e-aa5e-a34acee91282)
+![image](https://github.com/DeanLoisaga/CSE_StepResponse_ME_4205_Group2_2024/assets/159100618/18396e0b-315a-4a4d-802a-a2d0dd44d7f2)
 
 7. Plant with Time Delay
 
